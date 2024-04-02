@@ -59,4 +59,4 @@ We can engage in discussions for code changes, especially on the pull request pa
 
 ## CI
 
-The CI should be green before merging a pull request. In the CI, we try to have a good coverage of the code with tests, as well as a linter and formatter to check the code style.
+The CI should be green before merging a pull request. In the CI, we try to have a good coverage of the code with tests, as well as a linter and formatter to check the code style. We also of course compile the Coq proofs if there are some.
